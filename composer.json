@@ -1,8 +1,8 @@
 {
-    "name": "rowe/yii2-region",
+    "name": "rowe/yii2-UItoTop",
     "description": "Yii2返回顶部组件",
     "keywords": [
-        "yii2","go2top"
+        "yii2","UItoTop"
     ],
     "type": "yii2-widget",
     "license": "BSD-3-Clause",
