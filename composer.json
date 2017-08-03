@@ -1,8 +1,8 @@
 {
-    "name": "rowe/yii2-UItoTop",
+    "name": "rowe/yii2-uitotop",
     "description": "a simple Yii2 BacktoTop Widget",
     "keywords": [
-        "yii2","UItoTop"
+        "yii2","uitotop"
     ],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",

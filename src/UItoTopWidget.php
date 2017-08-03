@@ -1,6 +1,6 @@
 <?php
 
-namespace rowe\UItoTop;
+namespace rowe\uitotop;
 
 use yii\base\Widget;
 
