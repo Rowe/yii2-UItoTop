@@ -1,5 +1,5 @@
 # yii2-uitotop
-A "go to top" web widget extension for Yii2. (https://github.com/rowe/yii2-UItoTop)
+A "go to top" web widget extension for Yii2. (https://github.com/rowe/yii2-uitotop)
 
 
 ## Demo
