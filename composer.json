@@ -15,7 +15,7 @@
     "require": {
         "yiisoft/yii2": "*",
         "bower-asset/ui-to-top": "^1.3@dev",
-        "bower-asset/jquery.easing": "^1.4.0"
+        "bower-asset/jquery.easing": "*"
     },
     "autoload": {
         "psr-4": {
