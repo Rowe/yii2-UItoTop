@@ -1,10 +1,10 @@
 {
     "name": "rowe/yii2-UItoTop",
-    "description": "Yii2返回顶部组件",
+    "description": "a simple Yii2 BacktoTop Widget",
     "keywords": [
         "yii2","UItoTop"
     ],
-    "type": "yii2-widget",
+    "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -14,7 +14,8 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/ui-to-top": "^1.3@dev"
+        "bower-asset/ui-to-top": "^1.3@dev",
+        "bower-asset/jquery.easing": "^1.4.0"
     },
     "autoload": {
         "psr-4": {
